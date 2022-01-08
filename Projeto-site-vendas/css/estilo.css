@@ -1,0 +1,115 @@
+
+/** Barra de navegação **/
+
+
+.navbar-light .navbar-nav .nav-link{
+
+	color: white;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link:hover{
+
+	color: #4FF0F0;
+}
+
+
+
+.nav-logo{
+
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+}
+
+
+
+.btn-nav{
+
+	background: #D496FA;
+	color: white;
+}
+
+
+.btn-nav:hover{
+
+	background: white;
+	border: 1px solid #D496FA;
+	color: #D496FA;
+}
+
+
+
+/** Capa **/
+
+
+.capa{
+
+	background: linear-gradient(50deg, #8C04C1, #E9BDFA);
+	padding: 10px 10px;
+}
+
+
+.texto-capa{
+
+	padding-top: 90px;
+	color: white;
+}
+
+
+
+/** Seção texto **/
+
+
+.moda{
+
+	padding: 20px 0px;
+	text-align: center;
+}
+
+
+
+
+
+/** Produtos **/
+
+
+.produtos{
+
+	padding: 80px;
+	background: #BEF6F1;
+}
+
+
+
+
+/** Rodape **/
+
+
+.rodape{
+
+	margin-top: 20px;
+	background: #E8CCF5;
+	padding: 20px;
+}
+
+
+
+.logo-rodape{
+
+	font-size: 40px;
+	font-weight: bold;
+}
+
+
+.rodape-links{
+
+	color: black;
+}
+
+
+.rodape-links:hover{
+
+	color: gray;
+}
